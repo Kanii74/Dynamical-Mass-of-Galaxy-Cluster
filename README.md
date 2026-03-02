@@ -10,12 +10,11 @@ Galaxy clusters are the largest gravitationally bound structures in the universe
 
 The following steps are performed,
 
-Selection of cluster member galaxies using redshift cuts
+1) Selection of cluster member galaxies using redshift cuts
+2) Conversion of redshift to line-of-sight velocity
+3) Calculation of velocity dispersion
+4) Estimation of cluster radius
+5) Computation of dynamical mass using the virial theorem
 
-Conversion of redshift to line-of-sight velocity
+## Methodology
 
-Calculation of velocity dispersion
-
-Estimation of cluster radius
-
-Computation of dynamical mass using the virial theorem
